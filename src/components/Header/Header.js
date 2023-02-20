@@ -9,7 +9,7 @@ const Header = () => (
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color: '#212121' }}>
           <img src="/logo.png" height={32} width={32} />
-          <Name>Thau Nguyen. Change header1</Name>
+          <Name>Thau Nguyen. Change header again</Name>
         </a>
       </Link>
     </Div1>
