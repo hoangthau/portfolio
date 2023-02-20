@@ -13,7 +13,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           Hello everyone, This is Thau. I've been working as Frontend developer for about 8 years.
-          I'm passionate about JavaScript, TypeScript and ReactJS.
+          I'm passionate about JavaScript, TypeScript and ReactJS. Update from main.
         </SectionText>
         <Button
           onClick={(e) => {
